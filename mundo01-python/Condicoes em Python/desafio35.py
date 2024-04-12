@@ -1,6 +1,6 @@
-print('-='*20)
+print('\033[36m-=\033[m'*20)
 print('Analisador de Triangulos')
-print('-='*20)
+print('\033[36m-=\033[m'*20)
 r1 = float(input('Primeiro segmento: '))
 r2 = float(input('Segundo segmento: '))
 r3 = float(input('Terceiro segmento: '))
