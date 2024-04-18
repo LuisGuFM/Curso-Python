@@ -6,4 +6,5 @@ if n1 > n2:
 elif n2 > n1:
     print('O segundo valor e maior!')
 else:
-    print('Os valores sao iguais!')        
+    print('Os valores sao iguais!') 
+           
