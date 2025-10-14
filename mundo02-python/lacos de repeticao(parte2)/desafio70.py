@@ -12,7 +12,7 @@ while True:
         mais1000 += 1
     if cont == 1 or preço < menor:
         menor = preço
-        nomemenor = produto
+        nomemenor = prto
     resp = ' '
     while resp not in 'SN':
         resp = str(input('Deseja continuar sua compra?[S/N] ').strip().upper()[0])
